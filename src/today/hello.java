@@ -3,8 +3,8 @@ package today;
 public class hello {
 
 	public static void main(String[] args) {
-		System.out.println("Äã»¹ÔÚÄØ");
-		System.out.println("abc");
+		System.out.println("Ã„Ã£Â»Â¹Ã”ÃšÃ„Ã˜");
+		System.out.println("abcdef");
 
 	}
 
