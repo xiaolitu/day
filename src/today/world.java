@@ -6,6 +6,7 @@ public class world {
 		for(int i=0;i<6;i++){
 			System.out.println("I love java");
 		}
+		System.out.println("I love nanxi");
 
 	}
 
